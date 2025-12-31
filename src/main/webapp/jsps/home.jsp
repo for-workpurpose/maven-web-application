@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Edrish Technologies</h1>
 <h1 align="center">Phone Number: +91 7815809838</h1>
-<h1 align="center">Edrish Technologies is a Very Good Training Center for Learning AWS DevOps, Jenkins, Docker, Kubernetes, GitOps, ArgoCD, Terraform and Amazon Web Services</h1>
+<h1 align="center">Edrish Technologies is a Very Good Training Center for Learning AWS DevOps, Jenkins, Docker, Kubernetes, Git, ArgoCD, Terraform and Amazon Web Services</h1>
 
 <h1 align="center">Trainer Names: Edrish & Suban </h1>
 
