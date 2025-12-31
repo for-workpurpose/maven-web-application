@@ -52,7 +52,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Edrish Technologies - Consultant, Training and Development Center.</p>
-<p align=center><small>Copyrights 2025 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
+<p align=center><small>Copyrights 2025 by <a href="http://mithuntechnologies.com/">Edrish Technologies,Bengaluru</a> </small></p>
 
 </body>
 </html>
